@@ -18,9 +18,8 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ## Desafios
 
--   [Dia 01 - Ícone de mídia social em camadas](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2001)
-
-[Clique aqui para conferir o projeto no CodePen](https://codepen.io/lizvidotti91/pen/JjXMLvE)
+-   [Dia 01 - Ícone de mídia social em camadas](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2001);
+-   [Dia 02 - Loader animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2002);
 
 (lista atualizada a cada novo desafio postado)
 
