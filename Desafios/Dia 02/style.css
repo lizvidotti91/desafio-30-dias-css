@@ -8,6 +8,12 @@ body {
     background-color: #ff9fcf;
 }
 
+header {
+    left: 35vw;
+    position: absolute;
+    top: 5vh;
+}
+
 div.loading {
     left: 50%;
     position: absolute;
@@ -19,7 +25,7 @@ div.text {
     animation: text 3s linear infinite;
     color: #c204c2;
     font-family: monospace;
-    font-size: 10vh;
+    font-size: 5vh;
     font-weight: 100;
     left: 50%;
     position: absolute;
@@ -50,8 +56,8 @@ div.ring {
     animation: animate 2s linear infinite;
     border-radius: 50%;
     box-shadow: 10px 5px 0px #c204c2;
-    height: 40vw;
-    width: 40vw;
+    height: 20vw;
+    width: 20vw;
 }
 
 @keyframes animate {
@@ -62,4 +68,14 @@ div.ring {
     100% {
         transform: rotate(360deg);
     }
+}
+
+footer {
+    left: 45vw;
+    position: absolute;
+    bottom: 5vh;
+}
+
+footer p {
+    text-align: center;
 }

@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    left: 20vw;
+    position: absolute;
+    top: 5vh;
+}
+
+.home {
+    bottom: 25vh;
+    color: hotpink;
+    overflow: hidden;
+    position: absolute;
+    top: 25vh;
+    width: 100%;
+}
+
+.box {
+    background-color: hotpink;
+    color: whitesmoke;
+    height: 100%;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 50%;
+}
+
+.slide {
+    animation: animate 10s linear infinite;
+    font-size: 9vw;
+    line-height: 10vw;
+    overflow: visible;
+    position: absolute;
+    top: 25%;
+    white-space: nowrap;
+    width: 30vw;
+}
+
+@keyframes animate {
+    0% {
+        transform: translate(100%, 0);
+    }
+    100% {
+        transform: translate(-200%, 0);
+    }
+}
+
+footer {
+    left: 45vw;
+    position: absolute;
+    bottom: 5vh;
+}
+
+footer p {
+    text-align: center;
+}
