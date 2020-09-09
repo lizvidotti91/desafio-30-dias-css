@@ -25,6 +25,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 01 - Ícone de mídia social em camadas](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2001);
 -   [Dia 02 - Loader animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2002);
 -   [Dia 03 - Mudança de cor quando o texto entra em outra div](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2003);
+-   [Dia 04 - Botão com efeito](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2004);
 
 (lista atualizada a cada novo desafio postado)
 
