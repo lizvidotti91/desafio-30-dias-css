@@ -28,6 +28,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 04 - Botão com efeito](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2004);
 -   [Dia 05 - Efeito Pulsar](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2005);
 -   [Dia 06 - Efeito Lightning Text](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2006);
+-   [Dia 07 - Preloader Animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2007);
 
 (lista atualizada a cada novo desafio postado)
 
