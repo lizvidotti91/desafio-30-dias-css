@@ -1,5 +1,7 @@
 # Dia 02 - Loader Animado
 
+![Loader Animado](./loader.gif?raw=true "Loader Animado")
+
 -   [Codepen](https://codepen.io/lizvidotti91/pen/GRZyLrP?editors=1100);
 
 ## Tecnologias Usadas

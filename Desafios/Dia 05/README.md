@@ -1,5 +1,7 @@
 # Dia 05 - Efeito Pulsar
 
+![Efeito Pulsar](./botao.gif?raw=true "Efeito Pulsar")
+
 -   [Codepen](https://codepen.io/lizvidotti91/pen/wvGmQdq);
 
 ## Tecnologias Usadas

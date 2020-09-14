@@ -1,5 +1,7 @@
 # Dia 06 - Efeito Lightning Text
 
+![Efeito Lightning Text](./resiliencia.gif?raw=true "Efeito Lightning Text")
+
 -   [Codepen](https://codepen.io/lizvidotti91/pen/KKzRMee);
 
 ## Tecnologias Usadas

@@ -1,5 +1,7 @@
 # Dia 07 - Preloader Animado
 
+![Preloader Animado](./preloader.gif?raw=true "Preloader Animado")
+
 -   [Codepen](https://codepen.io/lizvidotti91/pen/LYNmBvV);
 
 ## Tecnologias Usadas

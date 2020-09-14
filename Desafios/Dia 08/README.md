@@ -1,5 +1,7 @@
 # Dia 08 - Coração Batendo
 
+![Coração Batendo](./coracao.gif?raw=true "Coração Batendo")
+
 -   [Codepen](https://codepen.io/lizvidotti91/pen/vYGrYeE);
 
 ## Tecnologias Usadas

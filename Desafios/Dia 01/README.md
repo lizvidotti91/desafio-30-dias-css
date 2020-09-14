@@ -1,5 +1,7 @@
 # Dia 01 - Ícones de mídias sociais em camadas
 
+![Ícones em camadas](./icones.gif?raw=true "Ícones em camadas")
+
 -   [Codepen](https://codepen.io/lizvidotti91/pen/JjXMLvE);
 
 ## Tecnologias Usadas

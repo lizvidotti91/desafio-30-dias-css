@@ -1,5 +1,7 @@
 # Dia 03 - Mudança de cor quando o texto entra em outra div
 
+![Mudança de cor](./amor.gif?raw=true "Mudança de cor")
+
 -   [Codepen](https://codepen.io/lizvidotti91/pen/JjXppWe?editors=1100);
 
 ## Tecnologias Usadas

@@ -1,5 +1,7 @@
 # Dia 4 - Botão com efeito
 
+![Botão com Efeito](./clique.gif?raw=true "Botão com Efeito")
+
 -   [Codepen](https://codepen.io/lizvidotti91/pen/vYGRBoN);
 
 ## Tecnologias Usadas
