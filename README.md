@@ -30,6 +30,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 06 - Efeito Lightning Text](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2006);
 -   [Dia 07 - Preloader Animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2007);
 -   [Dia 08 - Coração Batendo](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2008);
+-   [Dia 09 - Pêndulo de Newton](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2009);
 
 (lista atualizada a cada novo desafio postado)
 
