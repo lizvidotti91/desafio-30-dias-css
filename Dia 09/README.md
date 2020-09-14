@@ -1,6 +1,6 @@
 # Dia 09 - Pêndulo de Newton
 
-! [] (pendulo.gif)
+![Pêndulo de Newton](./pendulo.gif?raw=true "Pêndulo de Newton")
 
 -   [Codepen](https://codepen.io/lizvidotti91/pen/vYGrYeE);
 
