@@ -2,7 +2,7 @@
 
 ![Animação Texto alternando](./slide.gif?raw=true "Animação Texto alternando")
 
--   [Codepen]();
+-   [Codepen](https://codepen.io/lizvidotti91/pen/vYGayJj?editors=0100);
 
 ## Tecnologias Usadas
 
