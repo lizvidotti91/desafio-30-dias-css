@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #a44a3f;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #c7ac92;
+    margin: 30vh 0;
+    text-align: center;
+}
+
+div.text {
+    align-items: center;
+    color: #94a89a;
+    display: flex;
+    font-size: 10vh;
+    justify-content: space-around;
+    width: 30vw;
+}
+
+span::before {
+    animation: slide 5s linear infinite;
+    content: "";
+}
+
+@keyframes slide {
+    0% {
+        content: url(./img/book.png);
+    }
+    20% {
+        content: url(./img/coffe.png);
+    }
+    40% {
+        content: url(./img/music.png);
+    }
+    60% {
+        content: url(./img/netflix.png);
+    }
+    80% {
+        content: url(./img/paint.png);
+    }
+    100% {
+        content: url(./img/travel.png);
+    }
+}

@@ -31,6 +31,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 07 - Preloader Animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2007);
 -   [Dia 08 - Coração Batendo](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2008);
 -   [Dia 09 - Pêndulo de Newton](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2009);
+-   [Dia 10 - Animação de texto alternando](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2010);
 
 (lista atualizada a cada novo desafio postado)
 
