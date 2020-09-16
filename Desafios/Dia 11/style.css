@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #233329;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #d62246;
+    margin: 20vh;
+    text-align: center;
+}
+
+button {
+    border-radius: 10px;
+    background: none;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 0 1vw;
+    padding-right: 3vw;
+    overflow: hidden;
+    position: relative;
+    text-transform: uppercase;
+    transition: 0.9s;
+}
+
+button.search {
+    border: 1px solid #d62246;
+    color: #d62246;
+}
+
+button.setting {
+    border: 1px solid #fca311;
+    color: #fca311;
+}
+
+button.menu {
+    border: 1px solid #006d77;
+    color: #006d77;
+}
+
+button.chat {
+    border: 1px solid #06d6a0;
+    color: #06d6a0;
+}
+
+button.message {
+    border: 1px solid #f20089;
+    color: #f20089;
+}
+
+button:hover {
+    color: #d4f4dd;
+}
+
+button::before {
+    content: "";
+    border-radius: 0% 60% 60% 0%;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transition: 0.9s;
+    width: 0%;
+    z-index: -1;
+}
+
+button.search::before {
+    background-color: #d62246;
+}
+
+button.setting::before {
+    background-color: #fca311;
+}
+
+button.menu::before {
+    background-color: #006d77;
+}
+
+button.chat::before {
+    background-color: #06d6a0;
+}
+
+button.message::before {
+    background-color: #f20089;
+}
+
+button:hover::before {
+    width: 190%;
+}
+
+span {
+    color: #d4f4dd;
+    margin-right: 5px;
+    padding: 20px;
+}
+
+button.search span {
+    background-color: #d62246;
+}
+
+button.setting span {
+    background-color: #fca311;
+}
+
+button.menu span {
+    background-color: #006d77;
+}
+
+button.chat span {
+    background-color: #06d6a0;
+}
+
+button.message span {
+    background-color: #f20089;
+}
