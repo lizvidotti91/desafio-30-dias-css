@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #8093f1;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #f4f4ed;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 5vh;
+}
+
+h2 {
+    cursor: pointer;
+    font-size: 8vh;
+    position: relative;
+    text-align: center;
+}
+
+h2.viver {
+    color: #ff6978;
+}
+
+h2.crescer {
+    color: #6d435a;
+}
+
+h2.viva {
+    color: #6d435a;
+}
+
+h2.eco {
+    color: #ff6978;
+}
+
+h4 {
+    color: #6d435a;
+    margin-bottom: 5vh;
+}
+
+h2::before {
+    overflow: hidden;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    transition: 0.9s;
+}
+
+h2.viver::before {
+    color: #6d435a;
+    content: "ViverÉDesenharSemBorracha";
+    height: 100%;
+    width: 100%;
+}
+
+h2.crescer::before {
+    color: #ff6978;
+    content: "CrescerÉUmProcesso";
+    height: 0%;
+    width: 100%;
+}
+
+h2.viva::before {
+    color: #ff6978;
+    content: "VivaOsDetalhes";
+    height: 100%;
+    width: 0%;
+}
+
+h2.eco::before {
+    color: #6d435a;
+    content: "aVidaÉUmEco";
+    height: 100%;
+    width: 100%;
+}
+
+h2.viver:hover::before {
+    height: 0%;
+}
+
+h2.crescer:hover::before {
+    height: 100%;
+}
+
+h2.viva:hover::before {
+    width: 100%;
+}
+
+h2.eco:hover::before {
+    width: 0%;
+}
