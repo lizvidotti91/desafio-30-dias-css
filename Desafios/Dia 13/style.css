@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #210124;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #fefffe;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    font-size: 20vh;
+}
+
+li {
+    animation: slide 2.5s linear infinite;
+    color: #750d37;
+    letter-spacing: 20px;
+}
+
+@keyframes slide {
+    0% {
+        color: #750d37;
+        letter-spacing: 20px;
+    }
+    50% {
+        letter-spacing: -50px;
+    }
+    75% {
+        color: #f77f00;
+        letter-spacing: 50px;
+    }
+    100% {
+        color: #19535f;
+        letter-spacing: 20px;
+    }
+}
+
+li:nth-child(1) {
+    animation-delay: 0s;
+}
+
+li:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+li:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+li:nth-child(4) {
+    animation-delay: 0.6s;
+}
+
+li:nth-child(5) {
+    animation-delay: 0.8s;
+}
+
+li:nth-child(6) {
+    animation-delay: 1s;
+}
+
+li:nth-child(7) {
+    animation-delay: 1.2s;
+}
+
+li:nth-child(8) {
+    animation-delay: 1.4s;
+}
+
+li:nth-child(9) {
+    animation-delay: 1.8s;
+}
+
+li:nth-child(10) {
+    animation-delay: 2s;
+}
+
+h2 {
+    animation: load 2s linear infinite;
+    color: #750d37;
+    margin-bottom: 20vh;
+}
+
+@keyframes load {
+    0% {
+        color: #750d37;
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

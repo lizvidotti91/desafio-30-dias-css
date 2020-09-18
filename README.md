@@ -34,6 +34,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 10 - Animação de texto alternando](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2010);
 -   [Dia 11- Botão com Efeito Hover](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2011);
 -   [Dia 12- Efeito de Preenchimento ao Passar o Mouse](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2012);
+-   [Dia 13 - Loading com Efeito](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2013);
 
 (lista atualizada a cada novo desafio postado)
 
