@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #3d5a80;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #98c1d9;
+    text-align: center;
+}
+
+header {
+    font-size: 4vh;
+}
+
+div {
+    animation: slide 5s linear infinite;
+    background: url(./img/FreeVector-Waves-Vector-Pattern.jpg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: "Changa One", cursive;
+    font-size: 18vh;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+@keyframes slide {
+    0% {
+        background-position: 0%;
+    }
+    100% {
+        background-position: 100%;
+    }
+}
+
+footer {
+    font-size: 3vh;
+}
+
+footer p {
+    margin-top: 2vh;
+}
+
+footer a {
+    color: #98c1d9;
+}
