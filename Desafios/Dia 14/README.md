@@ -1,6 +1,6 @@
 # Dia 14 - Fundo de Texto Animado
 
-![Fundo de Texto Animado](./loading.gif?raw=true "Fundo de Texto Animado")
+![Fundo de Texto Animado](./waves.gif?raw=true "Fundo de Texto Animado")
 
 -   [Codepen](https://codepen.io/lizvidotti91/pen/eYZPrMK);
 
