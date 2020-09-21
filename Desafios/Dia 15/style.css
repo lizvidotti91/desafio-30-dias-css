@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #5e565a;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #eb9486;
+    text-align: center;
+}
+
+h2 {
+    animation: floating 2s linear infinite;
+    animation-direction: alternate;
+    color: #ff4e00;
+    font-size: 8vh;
+    letter-spacing: 10px;
+    line-height: 15vh;
+    margin: 20vh 10vw;
+    text-align: center;
+    text-shadow: 0px 10px 2px rgba(169, 203, 183, 0.1);
+    text-transform: uppercase;
+}
+
+@keyframes floating {
+    0% {
+        transform: rotate(-3deg);
+    }
+    100% {
+        transform: rotate(3deg);
+    }
+}

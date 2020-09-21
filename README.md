@@ -36,6 +36,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 12- Efeito de Preenchimento ao Passar o Mouse](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2012);
 -   [Dia 13 - Loading com Efeito](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2013);
 -   [Dia 14 - Fundo de Texto Animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2014);
+-   [Dia 15 - Texto Flutuante](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2015);
 
 (lista atualizada a cada novo desafio postado)
 
