@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #070707;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #ef6351;
+    text-align: center;
+}
+
+header {
+    font-size: 5vh;
+}
+
+footer {
+    font-size: 3vh;
+}
+
+div {
+    display: flex;
+    margin: 10vh 0;
+}
+
+button {
+    align-items: center;
+    border: none;
+    border-radius: 10vh;
+    color: whitesmoke;
+    cursor: pointer;
+    display: flex;
+    font-size: 5vh;
+    height: 10vh;
+    margin-right: 4vh;
+    overflow: hidden;
+    position: relative;
+    padding-left: 10vh;
+    transition: 0.5s;
+    width: 10vh;
+}
+
+button.instagram {
+    background-color: #833ab4;
+}
+
+button.facebook {
+    background-color: #4267b2;
+}
+
+button.twitter {
+    background-color: #00acee;
+}
+
+button.snapchat {
+    background-color: #fffc00;
+}
+
+button:hover {
+    padding-left: 12vh;
+    width: 40vh;
+}
+
+button span {
+    background-color: #8f8f8fa6;
+    border-radius: 50%;
+    color: whitesmoke;
+    font-size: 6vh;
+    height: 10vh;
+    left: 0;
+    padding-top: 2vh;
+    position: absolute;
+    top: 0;
+    width: 10vh;
+}
