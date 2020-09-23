@@ -38,6 +38,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 14 - Fundo de Texto Animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2014);
 -   [Dia 15 - Texto Flutuante](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2015);
 -   [Dia 16 - Botão com Efeito](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2016);
+-   [Dia 17 - Loader Animado #2](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2017);
 
 (lista atualizada a cada novo desafio postado)
 
