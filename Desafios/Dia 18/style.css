@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #293f14;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #386c0b;
+    font-family: monospace;
+    text-align: center;
+}
+
+header {
+    font-size: 5vh;
+}
+
+footer {
+    font-size: 3vh;
+}
+
+div.smoke {
+    color: whitesmoke;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20vh;
+    margin: 20vh 0;
+}
+
+div.smoke span {
+    animation: fog 4.5s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes fog {
+    0% {
+        opacity: 1;
+        filter: blur(0px);
+        transform: translate(0px, 0px) rotate(0deg);
+    }
+    20% {
+        opacity: 1;
+        filter: blur(0px);
+        transform: translate(0px, 0px) rotate(0deg);
+    }
+    100% {
+        filter: blur(20px);
+        opacity: 0;
+        transform: translate(2vw, -20vh) rotate(45deg);
+    }
+}
+
+div.smoke span:nth-child(1) {
+    animation-delay: 0s;
+}
+
+div.smoke span:nth-child(2) {
+    animation-delay: 0.4s;
+}
+
+div.smoke span:nth-child(3) {
+    animation-delay: 0.8s;
+}
+
+div.smoke span:nth-child(4) {
+    animation-delay: 1.2s;
+}
+
+div.smoke span:nth-child(5) {
+    animation-delay: 1.6s;
+}
+
+div.smoke span:nth-child(6) {
+    animation-delay: 2s;
+}
+
+div.smoke span:nth-child(7) {
+    animation-delay: 2.4s;
+}
+
+div.smoke span:nth-child(8) {
+    animation-delay: 2.8s;
+}
+
+div.smoke span:nth-child(9) {
+    animation-delay: 3.2s;
+}
+
+div.smoke span:nth-child(10) {
+    animation-delay: 3.6s;
+}
+
+div.smoke span:nth-child(11) {
+    animation-delay: 4s;
+}
