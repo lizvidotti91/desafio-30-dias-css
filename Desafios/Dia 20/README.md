@@ -2,7 +2,7 @@
 
 ![Album de Fotos usando Flex e Hover](./captured.gif?raw=true "Album de Fotos usando Flex e Hover")
 
--   [Codepen](https://codepen.io/lizvidotti91/pen/yLOwaqe);
+-   [Codepen](https://codepen.io/lizvidotti91/pen/OJNGwbR?editors=1000);
 
 ## Tecnologias Usadas
 
