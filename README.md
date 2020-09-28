@@ -41,6 +41,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 17 - Loader Animado #2](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2017);
 -   [Dia 18 - Texto Esfumaçado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2018);
 -   [Dia 19 - Fundo de Partículas](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2019);
+-   [Dia 20 - Album de fotos usando Flex e Hover](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2020);
 
 (lista atualizada a cada novo desafio postado)
 
