@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #53131E;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header,
+footer {
+    color: #A8BCA1;
+    font-size: 3vh;
+    text-align: center;
+}
+
+div.box {
+    border-bottom: 10px solid #A8BCA1;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10vh;
+    margin-top: 35vh;
+    width: 20vw;
+}
+
+div.ball {
+    animation: jump 1s ease-in infinite;
+    background-color: #A8BCA1;
+    border-radius: 50%;
+    height: 4vh;
+    width: 4vh;
+}
+
+@keyframes jump {
+    0% {
+        transform: translateY(0vh);
+    }
+
+    60% {
+        transform: translateY(-30vh);
+    }
+
+    100% {
+        transform: translateY(0vh);
+    }
+}
+
+div.ball:nth-child(1) {
+    animation-delay: 0s;
+}
+
+div.ball:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+div.ball:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+div.ball:nth-child(4) {
+    animation-delay: 0.6s;
+}
+
+div.ball:nth-child(5) {
+    animation-delay: 0.8s;
+}
