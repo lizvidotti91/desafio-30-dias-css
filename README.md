@@ -44,6 +44,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 -   [Dia 20 - Album de fotos usando Flex e Hover](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2020);
 -   [Dia 21 - Esferas Quicando](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2021);
 -   [Dia 22 - Ícones com Efeito](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2022);
+-   [Dia 23 - Texto com efeito de máquina de escrever](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2023);
 
 (lista atualizada a cada novo desafio postado)
 
