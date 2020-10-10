@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    align-items: center;
+    background-color: #22162B;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header, footer{
+    color: #F8C630;
+    font-family: monospace;
+    font-size: 3vh;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    font-size: 15vh;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 20vh 0;
+    width: 90vw;
+}
+
+input{
+    display: none;
+}
+
+label{
+    cursor: pointer;
+    position: relative;
+    transition: 0.5s;
+}
+
+label::before{
+    background-color: #E54F6D;
+    border-radius: 50%;
+    content: "";
+    display: block;
+    height: 5vh;
+    left: -1vw;
+    position: absolute;
+    top: -1vw;
+    transform: scale(0);
+    transition: 0.2s;
+    width: 5vh;
+}
+
+input:checked + label{
+    border: 0.5px solid #724E91;
+    font-size: 13vh;
+    padding: 1vh;
+}
+
+input:checked + label .fa-smile{
+    color: #F2AF29;
+}
+
+input:checked + label .fa-grin{
+    color: #85FFC7;
+}
+
+input:checked + label .fa-grin-stars{
+    color: #F3FFB9;
+}
+
+input:checked + label .fa-grin-hearts{
+    color: #E54F6D;
+}
+
+input:checked + label::before{
+    align-items: center;
+    color: white;
+    content: "✓";
+    display: flex;
+    font-size: 3vh;
+    font-weight: bold;
+    justify-content: center;
+    transform: scale(1);
+}
+
+i{
+    color: #724E91;
+}
