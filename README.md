@@ -47,6 +47,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 *   [Dia 23 - Texto com efeito de máquina de escrever](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2023); 
 *   [Dia 24 - Loader Animado #3](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2024); 
 *   [Dia 25 - Checkbox Animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2025); 
+*   [Dia 26 - Fantasminha](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2026); 
 
 (lista atualizada a cada novo desafio postado)
 

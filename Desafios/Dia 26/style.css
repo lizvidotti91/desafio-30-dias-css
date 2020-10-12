@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    align-items: center;
+    background-color: #e4092e;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+header, footer{
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 3vh;
+    text-align: center;
+}
+
+div.fantasma{
+    margin: 10vh;
+    position: relative;
+}
+
+div.fantasma div.rosto{
+    background-color: whitesmoke;
+    border-radius: 20vh 20vh 0 0;
+    cursor: pointer;
+    height: 40vh;
+    position: relative;
+    width: 30vh;
+}
+
+div.fantasma div.rosto div.olhos{
+    display: flex;
+    justify-content: space-between;
+    left: 15vh;
+    position: absolute;
+    top: 8vh;
+    transform: translateX(-50%);
+    width: 15vh;
+}
+
+div.fantasma div.rosto div.olhos span{
+    background-color: #e4092e;
+    border-radius: 50%;
+    height: 5vh;
+    transition: 0.3s;
+    width: 5vh;
+}
+
+div.fantasma:hover div.rosto div.olhos span{
+    height: 6vh;
+    width: 4vh;
+}
+
+div.fantasma div.rosto div.boca{
+    background-color: #e4092e;
+    border-radius: 0 0 5vh 5vh;
+    left: 15vh;
+    height: 5vh;
+    position: absolute;
+    top: 15vh;
+    transform: translateX(-50%);
+    transition: 0.3s;
+    width: 10vh;
+}
+
+div.fantasma:hover div.rosto div.boca{
+    border-radius: 5vh;
+    height: 8vh;
+    width: 5vh;
+}
+
+div.fantasma div.maos{
+    display: flex;
+    justify-content: space-between;
+    left: 0;
+    position: absolute;
+    top: 20vh;
+    transform: translateX(-5vh);
+    width: 40vh;
+}
+
+div.fantasma div.maos span{
+    background-color: whitesmoke;
+    height: 5vh;
+    transition: 0.3s;
+    width: 10vh;
+}
+
+div.fantasma div.maos span:nth-child(1){
+    border-radius: 5vh 0 0 5vh;
+    transform: rotate(-45deg);
+}
+
+div.fantasma:hover div.maos span:nth-child(1){
+    transform: rotate(45deg);
+}
+
+div.fantasma div.maos span:nth-child(2){
+    border-radius: 0vh 5vh 5vh 0vh;
+    transform: rotate(45deg);
+}
+
+div.fantasma:hover div.maos span:nth-child(2){
+    transform: rotate(-45deg);
+}
+
+div.fantasma div.pes{
+    bottom: -5vh;
+    display: flex;
+    left: 0;
+    position: absolute;
+    width: 30vh;
+}
+
+div.fantasma div.pes span{
+    background-color: whitesmoke;
+    border-radius: 0 0 10vh 10vh;
+    flex: 1;
+    height: 10vh;
+}
+
+div.fantasma div.pes span:first-child{
+    border-radius: 0vh 0vh 5vh 2.5vh;
+}
+
+div.fantasma div.pes span:last-child{
+    border-radius: 0vh 0vh 2.5vh 5vh;
+}
