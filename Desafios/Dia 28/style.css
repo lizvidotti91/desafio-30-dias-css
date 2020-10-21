@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    align-items: center;
+    animation: coloring 8s linear infinite;
+    animation-direction: alternate;
+    background-color: #FF0000;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+@keyframes coloring{
+    0%{
+        background-color: #ef476f
+    }
+    25%{
+        background-color: #ffd166;
+    }
+    50%{
+        background-color: #06d6a0;
+    }
+    75%{
+        background-color: #118ab2;
+    }
+    100%{
+        background-color: #073b4c;
+    }
+}
+
+header, footer{
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 3vh;
+    opacity: 0.8;
+    text-align: center;
+}
+
+section{
+    color: whitesmoke;
+    font-family: Arial;
+    font-size: 6vh;
+    line-height: 12vh;
+    margin: 15vh 0;
+    text-align: center;
+}

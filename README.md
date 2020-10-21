@@ -49,6 +49,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 *   [Dia 25 - Checkbox Animado](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2025); 
 *   [Dia 26 - Fantasminha](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2026); 
 *   [Dia 27 - Chamada Celular](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2027); 
+*   [Dia 28 - Cor do Background Mudando](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2028); 
 
 (lista atualizada a cada novo desafio postado)
 
