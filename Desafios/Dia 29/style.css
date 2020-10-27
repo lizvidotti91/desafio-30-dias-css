@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #171312;
+    color: #F4F2F3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+section.home{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    justify-content: center;
+}
+
+section.home h1{
+    font-size: 2em;
+    margin-top: 5vh;
+    text-transform: uppercase;
+}
+
+section.home img{
+    border-radius: 5vh;
+    margin: 3vh 0;
+    width: 40vw;
+}
+
+section.home p{
+    text-align: justify;
+    width: 40vw;
+}
+
+@media (max-width: 600px){
+    section.home h1{
+        font-size: 1.5em;
+    }
+
+    section.home img{
+        width: 80vw;
+    }
+
+    section.home p{
+        width: 80vw;
+    }
+}
+
+nav{
+    background-color: #EA3546;
+    font-size: 1.5em;
+    left: 0;
+    position: fixed;
+    text-align: right;
+    top: 0;
+    width: 100%;
+}
+
+nav label{
+    display: none;
+    line-height: 2em;
+}
+
+nav input{
+    display: none;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+@media (max-width: 600px){
+    nav{
+        font-size: 1.2em;
+    }
+
+    nav label{
+        display: block;
+        margin-right: 10vw;
+    }
+
+    nav ul{
+        display: none;
+        text-align: center;
+        width: 100vw;
+    }
+
+    nav ul li{
+        text-decoration: underline;
+    }
+
+    nav ul li a:hover, nav ul li a:focus{
+        color: #171312;
+    }
+
+    nav input:checked + ul{
+        display: block;
+    }
+}
+
+nav ul li{
+    margin-right: 3vw;
+}
+
+nav ul li a{
+    color: #F4F2F3;
+    line-height: 2em;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+footer{
+    align-items: center;
+    display: flex;
+    font-size: 1em;
+    height: 10vh;
+    justify-content: center;
+}
+
+@media (max-width: 600px){
+    footer{
+        font-size: 1em;
+    }
+}
