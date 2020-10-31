@@ -51,8 +51,7 @@ Para cada desafio, eu fiz um mini-tutorial, com base nos meus estudos para enten
 *   [Dia 27 - Chamada Celular](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2027); 
 *   [Dia 28 - Cor do Background Mudando](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2028); 
 *   [Dia 29 - Menu Responsivo com Media Queries](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2029); 
-
-(lista atualizada a cada novo desafio postado)
+*   [Dia 30 - Fogos de Artifício](https://github.com/lizvidotti91/desafio-30-dias-css/tree/master/Desafios/Dia%2030); 
 
 ## Autora
 
